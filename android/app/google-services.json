@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82632637346",
+    "project_id": "delivery-proj-3ef72",
+    "storage_bucket": "delivery-proj-3ef72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82632637346:android:4f609a9a44242daacf90fb",
+        "android_client_info": {
+          "package_name": "com.example.delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUMXIKp7AiM5yino1D6fVO6E47gC5KHUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82632637346:android:9a5352f0155af5c6cf90fb",
+        "android_client_info": {
+          "package_name": "com.learning.deliveryApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUMXIKp7AiM5yino1D6fVO6E47gC5KHUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
